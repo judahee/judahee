@@ -1,6 +1,6 @@
 ### Hi i'm dahee 👋
-🌱 무야호
-
+🌱 무야호</br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=judahee&show_icons=true&theme=radical)
 <!--
 **judahee/judahee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,3 +17,7 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/R-3776AB?style=flat-square&logo=R&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C-3776AB?style=flat-square&logo=C&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JS-3776AB?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/html5-3776AB?style=flat-square&logo=HTML5&logoColor=white"/></a>
