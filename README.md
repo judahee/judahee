@@ -11,6 +11,10 @@
 > ✔ 지하철 민원 챗봇 </br>
 > ✔ 감자 유형 테스트 </br>
 
+```python
+print("hello, world")
+```
+
 <div align = "center">
   <h3 align="center">🛠 활용 가능 언어 🛠</h3>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
