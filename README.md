@@ -1,5 +1,5 @@
-# [ OUTLIER ]
-### 동덕여자대학교 정보통계학과 과동아리 </br></br>
+# 개발새발 주다희입니다.
+### 멋쟁이 감자 🍤 </br></br>
 
 <div align = "center">
   <h3 align="center">🛠 활용 가능 언어 🛠</h3>
