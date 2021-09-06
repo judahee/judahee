@@ -12,9 +12,6 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
   <br/>
   <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&Studio&logoColor=white"/></a>
-</br>
-📫 insta : @ddw_outlier </br>
-</br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=judahee&show_icons=true&theme=radical)
 
