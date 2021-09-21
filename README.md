@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Soft&color=0:4AA8D8,100:4AA8D8&height=250&section=header&text=JUDAHEE&fontSize=40&desc=Data%20Scientist%20AND%20Developer&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&fontColor=0067a3&height=100&section=header&text=JUDAHEE&fontSize=70&fontAlignY=45&animation=fadeIn&desc=Data%20scientist%20who%20can%20development&&descAlignY=85)
 
 ### 📌 who am I </br>
 
