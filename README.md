@@ -20,8 +20,8 @@
 <div align = "center">
   
 <table border="0" width="1200px">
-  <tr align="center">
-    <td colspan="4" bgcolor="skyblue"> MY PROJECT </td>
+  <tr bgcolor="#2F4554" align="center">
+    <td colspan="4"> MY PROJECT </td>
   </tr>
   <tr align="center">
     <td colspan="2" width="600px"> 장기 프로젝트 </td>
