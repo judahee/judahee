@@ -1,16 +1,17 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&fontColor=0067a3&height=100&section=header&text=JUDAHEE&fontSize=70&fontAlignY=45&fontAlign=60&animation=fadeIn&desc=Data%20scientist%20who%20can%20development&&descAlignY=85&descAlign=60)
-
-### 📌 who am I </br>
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&fontColor=0067a3&height=100&section=header&text=JUDAHEE&fontSize=70&fontAlignY=45&fontAlign=55&animation=fadeIn&desc=Data%20scientist%20who%20can%20development&&descAlignY=85&descAlign=55)
 
 <div align = "center">
-  
-| **Date** | **contents** |
-|:--------:|:--------:|
-| 2018.03 ~ 2020.12 | 정보통계학과 학생회 | 
-| 2019.11 ~ 2021.08 | 길고양이 돌봄 동아리 "솜집사" |
-| 2019.09 ~  | 게임동아리 "OCG" |
-| 2020.12 ~ 2021.01 | 취업스터디 "d-odeven" |
-| 2021.02 ~  | 플젝동아리 "outlier" |
+  <h3>🛠 Languates 🛠</h3>
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>
+  </br>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&Studio&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&Studio&logoColor=white"/></a>
  
 </div>
 
@@ -44,21 +45,3 @@
 </div>
 
 </br>
-
-<div align = "center">
-  <h3 align="center">🛠 Languates 🛠</h3>
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>
-  </br>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&Studio&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&Studio&logoColor=white"/></a>
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=judahee&show_icons=true&theme=radical)
-
-</div>
