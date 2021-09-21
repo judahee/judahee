@@ -1,14 +1,22 @@
 ![header](https://capsule-render.vercel.app/api?type=Soft&color=0:4AA8D8,100:4AA8D8&height=250&section=header&text=JUDAHEE&fontSize=40&desc=Data%20Scientist%20AND%20Developer&animation=fadeIn)
 
-### 📌 Developer </br>
+### 📌 who am I </br>
 
-#### 🍺 멋진 프로젝트 </br>
-> ✔ 올인원 판매 사이트 야나두 </br>
-> ✔ 여가 시간 예측 및 여가 활동 추천 </br>
+<div align = "center">
+  
+| **Date** | **contents** |
+|:--------:|:--------:|
+| 2018.03 ~ 2020.12 | 정보통계학과 학생회 | 
+| 2019.11 ~ 2021.08 | 길고양이 돌봄 동아리 "솜집사" |
+| 2019.09 ~  | 게임동아리 "OCG" |
+| 2020.12 ~ 2021.01 | 취업스터디 "d-odeven" |
+| 2021.02 ~  | 플젝동아리 "outlier" |
+ 
+</div>
 
 </br>
 
-## 📌 Project
+## 📌 my Project
 
 <div align = "center">
   
