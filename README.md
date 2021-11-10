@@ -24,10 +24,6 @@
     <td colspan="4"> MY PROJECT </td>
   </tr>
   <tr align="center">
-    <td colspan="2" width="600px"> 장기 프로젝트 </td>
-    <td colspan="2" width="600px"> 단기 프로젝트 </td>
-  </tr>
-  <tr align="center">
     <td width="300px"> DATE </td>
     <td width="300px"> CONTENTS </td>
     <td width="300px"> DATE </td>
