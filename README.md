@@ -58,7 +58,7 @@
   </tr>
     </tr>
     <tr align="center">
-      <td> 2020.10 </td> <td>  </td> <td> 2021.08 ~ 2021.12 </td> <td> RE:MASK </td>
+      <td>  </td> <td>  </td> <td> 2021.08 ~ 2021.12 </td> <td> RE:MASK </td>
   </tr>
 </table>
 
