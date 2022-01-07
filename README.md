@@ -56,6 +56,10 @@
     <tr align="center">
       <td> 2020.10 </td> <td> 유튜브 댓글에서 신조어  </td> <td> 2021.08 ~ 2021.08 </td> <td> 감자 유형 테스트 </td>
   </tr>
+    </tr>
+    <tr align="center">
+      <td> 2020.10 </td> <td>  </td> <td> 2021.08 ~ 2021.12 </td> <td> RE:MASK </td>
+  </tr>
 </table>
 
 </div>
