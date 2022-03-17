@@ -62,7 +62,7 @@
   </tr>
 </table>
 
-감자 유형 테스트 :
+감자 유형 테스트 : https://ddwoutlier.neocities.org/ </br>
 정통 꿀단지 : https://ddwoutlier.github.io/gguldanji/
 
 </div>
