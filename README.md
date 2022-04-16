@@ -1,5 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&fontColor=0067a3&height=100&section=header&text=JUDAHEE&fontSize=70&fontAlignY=45&fontAlign=50&animation=fadeIn&desc=Data%20scientist%20who%20can%20development&&descAlignY=85&descAlign=50)
 
+<div align = "center">
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&fontColor=0067a3&height=100&section=header&text=JUDAHEE&fontSize=70&fontAlignY=45&fontAlign=50&animation=fadeIn&desc=Data%20scientist%20who%20can%20development&&descAlignY=85&descAlign=50)
+<
+  
 <div align = "center">
   <h3>🛠 Languates 🛠</h3>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
